@@ -1,0 +1,22 @@
+body {
+  background-color: #bcc5f5;
+}
+
+hr {
+  background-color: rgb(255, 255, 255);
+  border-style: none;
+  height: 2px;
+}
+
+h1,h3 {
+  color:#66BFBF;
+}
+
+/* class styles*/
+
+.row1{
+  width: 200px;
+}
+.row2{
+  width: 170px;
+}
